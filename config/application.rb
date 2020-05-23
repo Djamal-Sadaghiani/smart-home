@@ -23,5 +23,5 @@ module SmartHome
         idletime: 600.seconds
     end
 
-    Dotenv::Railtie.load
+    
 end
